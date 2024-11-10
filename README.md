@@ -4,7 +4,7 @@
 Ce projet présente une architecture simple et efficace pour transférer des fichiers en toute sécurité depuis un client local vers un bucket Amazon S3 en utilisant le protocole SFTP.
 
 ## Diagramme d'architecture:
-[Insérez ici votre diagramme]
+![Architecture du projet](https://github.com/Nelly-98/AWS-TransferDonneesSecurisee/blob/main/s3-awsTF.png)
 
 ## Fonctionnalités clés:
 - Transfert SFTP sécurisé: Utilisation du protocole SFTP pour garantir la confidentialité et l'intégrité des données lors du transfert.
